@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.mango {
+    width: 50px;
+    height: 25px;
+    background-color: blueviolet;
+    margin: 10px auto;
+}
+
+img {
+    transition: transform .2s;
+
+}
+
+img:hover {
+    transform: scale(.9);
+
+}
